@@ -13,15 +13,15 @@ Pick an address on an OpenStreetMap (Leaflet) map and save it in Django — no f
 
 ## Screenshots
 
-### Pick an address
+### Pick an address and click 'Save' to store it in the database
 
 ![Pick an address](images/address.png)
 
-### Re-center the map by city
+### Re-center the map by searching a city or area
 
-![Re-center by city](images/re-center.png)
+![Re-center map](images/re-center.png)
 
-### Manage saved addresses in Django admin
+### Resulting saved addresses in Django admin
 
 ![Django admin](images/admin.png)
 
